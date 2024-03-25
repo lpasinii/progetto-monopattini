@@ -1,0 +1,133 @@
+body {
+    background-image: url(limemonopattino.jpg);
+}
+
+/*contenitore grande*/
+.schermo {
+    margin: auto;
+    width: 1300px;
+    height: 900px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px 10px 10px 10px;
+}
+
+/*fine contenitore grande*/
+
+
+
+
+/*logo e titolo*/
+.intestazione {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+    color: rgb(0, 218, 2);
+}
+
+.logo {
+    width: 400px;
+    height: 150px;
+}
+
+.titolo {
+    font-family: sans-serif;
+}
+
+/*fine logo e titolo*/
+
+
+
+
+/*prenotazione*/
+.prenotazione {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+    color: rgb(0, 218, 2);
+}
+
+.navigazione {
+    background-color: rgb(0, 218, 2);
+    padding: 13px;
+}
+
+/*fine prenotazione*/
+
+
+
+/*scelta primo moopattino*/
+.scelta1 {
+    width: 1200px;
+    margin: auto;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+}
+
+
+.scelta1 span {
+    font-family: sans-serif;
+    font-size: 22px;
+
+
+}
+
+.carica1 {
+    width: 500px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: yellow;
+}
+
+/*fine scelta primo monopattino*/
+
+
+
+/*scelta secondo monopattino*/
+.scelta2 {
+    width: 1200px;
+    margin: auto;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+}
+
+.scelta2 span {
+    font-family: sans-serif;
+    font-size: 22px;
+}
+
+
+.carica2 {
+    width: 800px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: green;
+}
+
+/*fine scelta secondo monopattino*/
+
+
+/*scelta terzo monopattino*/
+.scelta3 {
+    width: 1200px;
+    margin: auto;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+}
+
+.scelta3 span {
+    font-family: sans-serif;
+    font-size: 22px;
+}
+
+
+.carica3 {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: red;
+}
+
+/*fine scelta terzo monopattino*/
